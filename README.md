@@ -11,4 +11,5 @@ scripts used in pyspider platform
    query=chinajoy
 2. douban_book
    豆瓣图书畅销数目抓取
-   _
+3. taobaogirl
+   淘mm个人主页图片集合抓取，并按照名字区分保存在本地文件夹
